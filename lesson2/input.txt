@@ -1,0 +1,6 @@
+{'items': ['mouse','printer'],
+  'items_price': { 'computer' : '200\\u20ac - 1000\u20ac',
+                    'keyboard' : '5\u20ac - 50\u20ac'/,
+                  },
+  'items_quantity' : 4
+}
